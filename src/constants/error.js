@@ -1,0 +1,8 @@
+const SESSION_PASSWORD_NEEDED = "";
+
+const PASSWORD_NEEDED = {
+  CODE: 401,
+  MESSAGE: "SESSION_PASSWORD_NEEDED",
+};
+
+module.exports = { PASSWORD_NEEDED };

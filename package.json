@@ -1,0 +1,11 @@
+{
+  "name": "mtproto",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@mtproto/core": "6.3.0"
+  },
+  "devDependencies": {},
+  "type": "commonjs"
+}
